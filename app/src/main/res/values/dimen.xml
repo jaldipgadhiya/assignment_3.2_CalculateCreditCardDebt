@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="big_text">15sp</dimen>
+    <dimen name="default_padding">15dp</dimen>
+    <dimen name="tv_padding">50dp</dimen>
+    <item name="ll_weight" format="float" type="dimen">0.1</item>
+    <item name="tv_weight" format="float" type="dimen">0.70</item>
+    <dimen name="tv_textSize">15sp</dimen>
+    <item name="et_weight" format="float" type="dimen">0.50</item>
+    <dimen name="et_textSize">22sp</dimen>
+    <dimen name="et_lheight">40dp</dimen>
+</resources>
